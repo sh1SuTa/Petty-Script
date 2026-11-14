@@ -1,5 +1,4 @@
 Hackinet
-LittleSwift
 Mohsen-malekifard
 ParhamPK03
 Piyush64-bit
@@ -15,5 +14,4 @@ ramazansakin
 shinbatsu
 sinclair-29
 teble
-viva-la-vita
 zainab0077
